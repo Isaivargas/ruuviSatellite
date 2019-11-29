@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A69754EA-E656-42D2-821D-546C6BEE8A3B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/magellan/scripts/movement.cs">
+    <Files>
+      <File FileName="Assets/magellan/scripts/movement.cs" Line="114" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="spaceStation" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="magellan" expanded="True">
+                <Node name="scripts" expanded="True">
+                  <Node name="movement.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6856f837-5c8a-4efe-98ef-403d2b202437" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
